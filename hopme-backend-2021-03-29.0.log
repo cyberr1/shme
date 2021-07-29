@@ -1,0 +1,678 @@
+2021-03-29 09:51:51.040  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 09:51:51.041 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 09:51:51.041  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 09:51:51.444  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 09:51:51.769  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.764 seconds (JVM running for 3578.664)
+2021-03-29 09:53:59.622  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 09:53:59.622 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 09:53:59.622  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 09:53:59.999  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 09:54:00.331  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.734 seconds (JVM running for 3707.226)
+2021-03-29 09:55:05.751  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 09:55:05.752 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 09:55:05.752  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 09:55:06.130  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 09:55:06.459  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.733 seconds (JVM running for 3773.354)
+2021-03-29 09:55:21.213  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 09:55:21.213 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 09:55:21.213  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 09:55:21.589  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 09:55:21.922  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.734 seconds (JVM running for 3788.818)
+2021-03-29 09:58:47.939  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 09:58:47.939 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 09:58:47.939  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 09:58:48.314  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 09:58:48.623  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.709 seconds (JVM running for 3995.519)
+2021-03-29 10:01:21.275  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:01:21.275 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:01:21.275  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:01:21.672  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:01:21.987  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.737 seconds (JVM running for 4148.885)
+2021-03-29 10:01:47.116  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:01:47.116 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:01:47.116  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:01:47.548  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:01:47.877  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.786 seconds (JVM running for 4174.775)
+2021-03-29 10:02:14.108  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:02:14.108 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:02:14.108  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:02:14.525  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:02:14.895  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.827 seconds (JVM running for 4201.793)
+2021-03-29 10:03:42.860  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:03:42.861 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:03:42.861  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:03:43.250  WARN 11584 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is java.lang.NoClassDefFoundError: Set
+2021-03-29 10:03:43.275 ERROR 11584 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is java.lang.NoClassDefFoundError: Set
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: java.lang.NoClassDefFoundError: Set
+	at java.base/java.lang.Class.getDeclaredFields0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredFields(Class.java:3220) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredFields(Class.java:2341) ~[na:na]
+	at org.hibernate.annotations.common.reflection.java.JavaXClass.getDeclaredFieldProperties(JavaXClass.java:84) ~[hibernate-commons-annotations-5.1.2.Final.jar:5.1.2.Final]
+	at org.hibernate.annotations.common.reflection.java.JavaXClass.getDeclaredProperties(JavaXClass.java:113) ~[hibernate-commons-annotations-5.1.2.Final.jar:5.1.2.Final]
+	at org.hibernate.annotations.common.reflection.java.JavaXClass.getDeclaredProperties(JavaXClass.java:108) ~[hibernate-commons-annotations-5.1.2.Final.jar:5.1.2.Final]
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:258) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:785) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:248) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[spring-beans-5.3.5.jar:5.3.5]
+	... 22 common frames omitted
+Caused by: java.lang.ClassNotFoundException: Set
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:468) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	... 43 common frames omitted
+
+2021-03-29 10:03:55.006  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:03:55.006 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:03:55.006  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:03:55.323 ERROR 11584 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.shopme.common.entity.Category
+2021-03-29 10:03:55.323  WARN 11584 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+2021-03-29 10:03:55.332 ERROR 11584 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:785) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:248) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[spring-beans-5.3.5.jar:5.3.5]
+	... 22 common frames omitted
+
+2021-03-29 10:07:10.817  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:07:10.817 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:07:10.817  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:07:11.155 ERROR 11584 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: No identifier specified for entity: com.shopme.common.entity.Category
+2021-03-29 10:07:11.155  WARN 11584 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+2021-03-29 10:07:11.166 ERROR 11584 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: org.hibernate.AnnotationException: No identifier specified for entity: com.shopme.common.entity.Category
+	at org.hibernate.cfg.InheritanceState.determineDefaultAccessType(InheritanceState.java:266) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.InheritanceState.getElementsToProcess(InheritanceState.java:211) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.cfg.AnnotationBinder.bindClass(AnnotationBinder.java:785) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl.processEntityHierarchies(AnnotationMetadataSourceProcessorImpl.java:248) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess$1.processEntityHierarchies(MetadataBuildingProcess.java:239) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:282) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.29.Final.jar:5.4.29.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[spring-beans-5.3.5.jar:5.3.5]
+	... 22 common frames omitted
+
+2021-03-29 10:07:22.940  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:07:22.940 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:07:22.940  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:07:23.611  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:07:23.943  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 1.03 seconds (JVM running for 4510.843)
+2021-03-29 10:08:17.818  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:08:17.819 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:08:17.819  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:08:18.220  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:08:18.535  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.741 seconds (JVM running for 4565.435)
+2021-03-29 10:10:46.204  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:10:46.204 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:10:46.205  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:10:46.586  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:10:46.891  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.71 seconds (JVM running for 4713.791)
+2021-03-29 10:11:03.809  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:11:03.809 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:11:03.810  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:11:04.193  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:11:04.516  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.732 seconds (JVM running for 4731.416)
+2021-03-29 10:18:04.210  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:18:04.211 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:18:04.211  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:18:04.813  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:18:05.247  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 1.062 seconds (JVM running for 5152.15)
+2021-03-29 10:18:05.874  INFO 10284 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 10284 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:18:05.876 DEBUG 10284 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:18:05.882  INFO 10284 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:18:09.005  INFO 10284 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.571 seconds (JVM running for 5.196)
+2021-03-29 10:18:09.254  WARN 10284 --- [main] o.s.test.context.TestContextManager      : Caught exception while invoking 'afterTestMethod' callback on TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener@53fd0d10] for test method [public void com.shopme.admin.category.CategoryRepositoryTest.testCreateRootCategory()] and test instance [com.shopme.admin.category.CategoryRepositoryTest@1a760689]
+
+org.springframework.transaction.UnexpectedRollbackException: Transaction silently rolled back because it has been marked as rollback-only
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:752) ~[spring-tx-5.3.5.jar:5.3.5]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.transaction.TransactionContext.endTransaction(TransactionContext.java:131) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.transaction.TransactionalTestExecutionListener.afterTestMethod(TransactionalTestExecutionListener.java:255) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.TestContextManager.afterTestMethod(TestContextManager.java:441) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.afterEach(SpringExtension.java:206) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachCallbacks$11(TestMethodTestDescriptor.java:253) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$12(TestMethodTestDescriptor.java:269) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:269) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:268) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachCallbacks(TestMethodTestDescriptor.java:252) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:84) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210) ~[.cp/:na]
+
+2021-03-29 10:19:10.436  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:19:10.436 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:19:10.436  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:19:10.825  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:19:11.160  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.75 seconds (JVM running for 5218.064)
+2021-03-29 10:19:31.932  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:19:31.933 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:19:31.933  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:19:32.320  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:19:32.651  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.741 seconds (JVM running for 5239.554)
+2021-03-29 10:19:54.435  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:19:54.436 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:19:54.436  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:19:54.825  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:19:55.217  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.805 seconds (JVM running for 5262.12)
+2021-03-29 10:20:38.570  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:20:38.570 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:20:38.570  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:20:38.981  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:20:39.329  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.783 seconds (JVM running for 5306.233)
+2021-03-29 10:20:47.218  INFO 5508 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 5508 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:20:47.220 DEBUG 5508 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:20:47.227  INFO 5508 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:20:50.421  INFO 5508 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.631 seconds (JVM running for 4.617)
+2021-03-29 10:21:57.746  INFO 12088 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 12088 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:21:57.747 DEBUG 12088 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:21:57.753  INFO 12088 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:22:01.296  INFO 12088 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 4.039 seconds (JVM running for 5.065)
+2021-03-29 10:23:07.959  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:23:07.960 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:23:07.960  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:23:08.344  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:23:08.687  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.751 seconds (JVM running for 5455.591)
+2021-03-29 10:23:31.758  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:23:31.759 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:23:31.759  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:23:32.137  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:23:32.467  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.732 seconds (JVM running for 5479.372)
+2021-03-29 10:25:31.106  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:25:31.106 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:25:31.106  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:25:31.507  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:25:31.835  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.752 seconds (JVM running for 5598.74)
+2021-03-29 10:26:41.196  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 11584 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:26:41.196 DEBUG 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:26:41.196  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 10:26:41.591  WARN 11584 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 10:26:41.940  INFO 11584 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.769 seconds (JVM running for 5668.846)
+2021-03-29 10:30:31.850  INFO 10224 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 10224 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:30:31.851 DEBUG 10224 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:30:31.853  INFO 10224 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:30:35.208  INFO 10224 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.807 seconds (JVM running for 4.858)
+2021-03-29 10:32:09.583  INFO 9864 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 9864 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:32:09.585 DEBUG 9864 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:32:09.587  INFO 9864 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:32:12.680  INFO 9864 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.576 seconds (JVM running for 4.578)
+2021-03-29 10:33:33.132  INFO 11384 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 11384 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:33:33.134 DEBUG 11384 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:33:33.138  INFO 11384 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:33:36.367  INFO 11384 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.687 seconds (JVM running for 4.692)
+2021-03-29 10:34:51.275  INFO 11396 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 11396 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:34:51.276 DEBUG 11396 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:34:51.280  INFO 11396 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:34:54.314  INFO 11396 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.596 seconds (JVM running for 4.587)
+2021-03-29 10:39:55.050  INFO 11064 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 11064 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:39:55.052 DEBUG 11064 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:39:55.053  INFO 11064 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:39:58.217  INFO 11064 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.65 seconds (JVM running for 4.64)
+2021-03-29 10:39:58.482  WARN 11064 --- [main] o.s.test.context.TestContextManager      : Caught exception while invoking 'afterTestMethod' callback on TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener@4ce1d6d0] for test method [public void com.shopme.admin.category.CategoryRepositoryTest.testGetCategory()] and test instance [com.shopme.admin.category.CategoryRepositoryTest@70f59913]
+
+org.springframework.transaction.UnexpectedRollbackException: Transaction silently rolled back because it has been marked as rollback-only
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:752) ~[spring-tx-5.3.5.jar:5.3.5]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.transaction.TransactionContext.endTransaction(TransactionContext.java:131) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.transaction.TransactionalTestExecutionListener.afterTestMethod(TransactionalTestExecutionListener.java:255) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.TestContextManager.afterTestMethod(TestContextManager.java:441) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.afterEach(SpringExtension.java:206) ~[spring-test-5.3.5.jar:5.3.5]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachCallbacks$11(TestMethodTestDescriptor.java:253) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$12(TestMethodTestDescriptor.java:269) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:269) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:268) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachCallbacks(TestMethodTestDescriptor.java:252) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:65) ~[junit-jupiter-engine-5.7.1.jar:5.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:143) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:129) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:127) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:126) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:84) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51) ~[junit-platform-engine-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:84) ~[junit-platform-launcher-1.7.1.jar:1.7.1]
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464) ~[.cp/:na]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210) ~[.cp/:na]
+
+2021-03-29 10:41:16.615  INFO 2580 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 2580 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:41:16.616 DEBUG 2580 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:41:16.620  INFO 2580 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:41:19.633  INFO 2580 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.467 seconds (JVM running for 4.424)
+2021-03-29 10:42:10.617  INFO 4408 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 4408 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:42:10.618 DEBUG 4408 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:42:10.622  INFO 4408 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:42:13.626  INFO 4408 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.46 seconds (JVM running for 4.432)
+2021-03-29 10:47:05.017  INFO 7580 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 7580 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:47:05.018 DEBUG 7580 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:47:05.019  INFO 7580 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:47:08.084  INFO 7580 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.529 seconds (JVM running for 4.485)
+2021-03-29 10:47:32.807  INFO 8876 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 8876 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:47:32.809 DEBUG 8876 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:47:32.811  INFO 8876 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:47:35.937  INFO 8876 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.591 seconds (JVM running for 4.617)
+2021-03-29 10:48:02.760  INFO 5640 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 5640 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:48:02.762 DEBUG 5640 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:48:02.766  INFO 5640 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:48:05.856  INFO 5640 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.548 seconds (JVM running for 4.509)
+2021-03-29 10:57:41.944  INFO 5252 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 5252 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:57:41.945 DEBUG 5252 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:57:41.950  INFO 5252 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:57:44.997  INFO 5252 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.527 seconds (JVM running for 4.499)
+2021-03-29 10:58:38.501  INFO 7636 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 7636 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 10:58:38.503 DEBUG 7636 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 10:58:38.507  INFO 7636 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 10:58:41.590  INFO 7636 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.558 seconds (JVM running for 4.579)
+2021-03-29 11:00:20.362  INFO 9560 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 9560 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:00:20.363 DEBUG 9560 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:00:20.367  INFO 9560 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 11:00:23.469  INFO 9560 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.581 seconds (JVM running for 4.541)
+2021-03-29 11:00:50.632  INFO 10868 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 10868 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:00:50.633 DEBUG 10868 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:00:50.642  INFO 10868 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 11:00:54.175  INFO 10868 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.991 seconds (JVM running for 5.001)
+2021-03-29 11:01:01.919  INFO 3040 --- [main] c.s.a.category.CategoryRepositoryTest    : Starting CategoryRepositoryTest using Java 15.0.2 on DESKTOP-4THPEBC with PID 3040 (started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:01:01.920 DEBUG 3040 --- [main] c.s.a.category.CategoryRepositoryTest    : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:01:01.923  INFO 3040 --- [main] c.s.a.category.CategoryRepositoryTest    : No active profile set, falling back to default profiles: default
+2021-03-29 11:01:05.024  INFO 3040 --- [main] c.s.a.category.CategoryRepositoryTest    : Started CategoryRepositoryTest in 3.571 seconds (JVM running for 4.543)
+2021-03-29 11:05:03.071  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:05:03.073 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:05:03.073  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:05:05.871  WARN 4884 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 11:05:07.002  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 4.311 seconds (JVM running for 5.044)
+2021-03-29 11:09:49.898  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:09:49.898 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:09:49.899  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:09:50.215  WARN 4884 --- [restartedMain] o.a.c.c.C.[.[localhost].[/ShopmeAdmin]   : Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [E03EC7549B7C3BD0B64376FF87B71130]
+2021-03-29 11:09:50.360  WARN 4884 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 11:09:50.686  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.816 seconds (JVM running for 288.729)
+2021-03-29 11:10:15.822  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:10:15.822 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:10:15.822  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:10:16.256  WARN 4884 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 11:10:16.578  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.782 seconds (JVM running for 314.622)
+2021-03-29 11:10:19.122  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:10:19.122 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:10:19.122  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:10:19.539  WARN 4884 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-03-29 11:10:19.872  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Started ShopmeBackEndApplication in 0.774 seconds (JVM running for 317.915)
+2021-03-29 11:10:53.179  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:10:53.180 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:10:53.180  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:10:53.191  WARN 4884 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.shopme.admin.ShopmeBackEndApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'userService' for bean class [com.shopme.admin.user.UserService] conflicts with existing, non-compatible bean definition of same name and class [com.shopme.admin.category.UserService]
+2021-03-29 11:10:53.210 ERROR 4884 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.shopme.admin.ShopmeBackEndApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'userService' for bean class [com.shopme.admin.user.UserService] conflicts with existing, non-compatible bean definition of same name and class [com.shopme.admin.category.UserService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'userService' for bean class [com.shopme.admin.user.UserService] conflicts with existing, non-compatible bean definition of same name and class [com.shopme.admin.category.UserService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:132) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175) ~[spring-context-5.3.5.jar:5.3.5]
+	... 19 common frames omitted
+
+2021-03-29 11:11:07.041  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:11:07.041 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:11:07.042  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:11:07.444  WARN 4884 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'categoryService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@4d881f0d]
+2021-03-29 11:11:07.455 ERROR 4884 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'categoryService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@4d881f0d]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1284) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1201) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@4d881f0d]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481) ~[spring-core-5.3.5.jar:5.3.5]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321) ~[spring-core-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267) ~[spring-beans-5.3.5.jar:5.3.5]
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: UserNotFoundException
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2466) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463) ~[spring-core-5.3.5.jar:5.3.5]
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: UserNotFoundException
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:468) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	... 30 common frames omitted
+
+2021-03-29 11:13:19.235  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:13:19.235 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:13:19.236  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:13:19.616  WARN 4884 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'categoryService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@28c0cf81]
+2021-03-29 11:13:19.626 ERROR 4884 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'categoryService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@28c0cf81]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1284) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1201) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944) ~[spring-beans-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.shopme.admin.category.CategoryService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@28c0cf81]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481) ~[spring-core-5.3.5.jar:5.3.5]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321) ~[spring-core-5.3.5.jar:5.3.5]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267) ~[spring-beans-5.3.5.jar:5.3.5]
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: UserNotFoundException
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2466) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463) ~[spring-core-5.3.5.jar:5.3.5]
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: UserNotFoundException
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:468) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	... 30 common frames omitted
+
+2021-03-29 11:14:32.506  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Starting ShopmeBackEndApplication using Java 15.0.2 on DESKTOP-4THPEBC with PID 4884 (C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\target\classes started by admin in C:\ShopmeEcommerce\ShopmeProject\ShopmeWebParent\ShopmeBackEnd)
+2021-03-29 11:14:32.506 DEBUG 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-29 11:14:32.506  INFO 4884 --- [restartedMain] c.shopme.admin.ShopmeBackEndApplication  : No active profile set, falling back to default profiles: default
+2021-03-29 11:14:32.687 ERROR 4884 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.NoClassDefFoundError: User
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3325) ~[na:na]
+	at java.base/java.lang.Class.privateGetPublicMethods(Class.java:3350) ~[na:na]
+	at java.base/java.lang.Class.getMethods(Class.java:1996) ~[na:na]
+	at org.springframework.data.repository.util.ReactiveWrappers.usesReactiveType(ReactiveWrappers.java:159) ~[spring-data-commons-2.4.6.jar:2.4.6]
+	at org.springframework.data.repository.core.support.AbstractRepositoryMetadata.isReactiveRepository(AbstractRepositoryMetadata.java:160) ~[spring-data-commons-2.4.6.jar:2.4.6]
+	at org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport.useRepositoryConfiguration(RepositoryConfigurationExtensionSupport.java:366) ~[spring-data-commons-2.4.6.jar:2.4.6]
+	at org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport.getRepositoryConfigurations(RepositoryConfigurationExtensionSupport.java:108) ~[spring-data-commons-2.4.6.jar:2.4.6]
+	at org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:149) ~[spring-data-commons-2.4.6.jar:2.4.6]
+	at org.springframework.boot.autoconfigure.data.AbstractRepositoryConfigurationSourceSupport.registerBeanDefinitions(AbstractRepositoryConfigurationSourceSupport.java:62) ~[spring-boot-autoconfigure-2.4.4.jar:2.4.4]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:396) ~[spring-context-5.3.5.jar:5.3.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:723) ~[na:na]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:395) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:157) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564) ~[spring-context-5.3.5.jar:5.3.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313) ~[spring-boot-2.4.4.jar:2.4.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-2.4.4.jar:2.4.4]
+	at com.shopme.admin.ShopmeBackEndApplication.main(ShopmeBackEndApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+Caused by: java.lang.ClassNotFoundException: User
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:468) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145) ~[spring-boot-devtools-2.4.4.jar:2.4.4]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[na:na]
+	... 34 common frames omitted
+

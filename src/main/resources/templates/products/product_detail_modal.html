@@ -1,0 +1,126 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+
+<div class="modal-header">
+	<h4 class="modal-title">Product Details</h4>
+	<button type="button" class="close" data-dismiss="modal"
+		aria-label="No">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
+<div>
+	<ul class="nav nav-tabs" id="myTab" role="tablist">
+		<li class="nav-item"><a class="nav-link active" data-toggle="tab"
+			href="#overview" role="tab">Overview</a></li>
+		<li class="nav-item"><a class="nav-link" data-toggle="tab"
+			href="#description" role="tab">Description</a></li>
+		<li class="nav-item"><a class="nav-link" data-toggle="tab"
+			href="#images" role="tab">Images</a></li>
+		<li class="nav-item"><a class="nav-link" data-toggle="tab"
+			href="#details" role="tab">Details</a></li>
+		<li class="nav-item"><a class="nav-link" data-toggle="tab"
+			href="#shipping" role="tab">Shipping</a></li>
+	</ul>
+
+
+
+
+	<!-- Tab panes -->
+	<div class="tab-content">
+		<div class="tab-pane active p-3" id="overview" role="tabpanel">
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Product Name:</label>
+				<div class="col-sm-10">
+					<input th:value="${product.name}" type="text" class="form-control"
+						readonly="readonly" />
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Product Alias:</label>
+				<div class="col-sm-10">
+					<input th:value="${product.alias}" type="text" class="form-control"
+						readonly="readonly" />
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Brand Name:</label>
+				<div class="col-sm-10">
+					<select th:field="*{brand}" class="form-control" required>
+						<th:block th:each="brand : ${listBrands}">
+							<option th:value="${brand.id}">[[${brand.name}]]</option>
+						</th:block>
+
+					</select>
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Category Name:</label>
+				<div class="col-sm-10">
+					<th:block th:if="${product.category != null}">
+						<select th:field="*{category}" class="form-control" required>
+							<th:block th:each="cat : ${product.brand.categories}">
+								<option th:value="${cat.id}">[[${cat.name}]]</option>
+							</th:block>
+						</select>
+					</th:block>
+
+
+					<th:block th:if="${product.category == null}">
+						<select th:field="*{category}" class="form-control" required>
+						</select>
+					</th:block>
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Enabled:</label>
+				<div class="col-sm-10">
+					<input type="checkbox" th:field="*{enabled}" class="m-2" />
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">InStock:</label>
+				<div class="col-sm-10">
+					<input type="checkbox" th:field="*{inStock}" class="m-2" />
+				</div>
+			</div>
+
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Cost:</label>
+				<div class="col-sm-10">
+					<input th:field="*{cost}" type="number" class="form-control" />
+				</div>
+			</div>
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Price:</label>
+				<div class="col-sm-10">
+					<input th:field="*{price}" type="number" class="form-control" />
+				</div>
+			</div>
+			<div class=" form-group row">
+				<label class="col-sm-2 col-form-label">Discount:</label>
+				<div class="col-sm-10">
+					<input th:field="*{discountPercent}" type="number"
+						class="form-control" />
+				</div>
+			</div>
+
+
+
+		</div>
+		<div class="tab-pane  p-3" id="description" role="tabpanel"></div>
+		<div class="tab-pane p-3" id="images" role="tabpanel"></div>
+		<div class="tab-pane" id="details" role="tabpanel"></div>
+		<div class="tab-pane p-3" id="shipping" role="tabpanel"></div>
+	</div>
+
+</div>
+<div class="modal-footer">
+	<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+</div>
+
+</html>

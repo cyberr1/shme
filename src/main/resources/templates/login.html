@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport"
+	content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+<title>Login - Shopme Admin</title>
+
+
+
+<link rel="stylesheet" type="text/css"
+	th:href="@{/webjars/bootstrap/css/bootstrap.min.css}" />
+
+</head>
+
+
+<div class="container-fluid text-center">
+
+
+	<div>
+		<img th:src="@{'/images/ShopmeAdminBig.png'}" />
+	</div>
+
+	<form th:action="@{/login}" method="POST"
+		style="max-width: 350px; margin: 0 auto;">
+		<div th:if="${param.logout}">
+			<p class="text-warning">You have been logged out </p>
+		</div>
+		
+		<div class="border border-secondary rounded p-4">
+			<p>Access to Shopme Admin Panel</p>
+			<P>
+				<input type="email" name="email" class="form-control" required
+					placeholder="E-mail" />
+			</P>
+			<P>
+				<input type="password" name="password" class="form-control" required
+					placeholder="Password" />
+			</P>
+			<div th:if="${param.error}" >
+			<p class="text-danger">[[${session.SPRING_SECURITY_LAST_EXCEPTION.message}]]</p>
+			</div>
+			<p>
+				<input type="checkbox" name="remember-me" />&nbsp;Remember Me
+			</p>
+			<P>
+				<input type="submit" value="Login" class="btn btn-primary"/>
+			</P>
+		</div>
+	</form>
+<div>
+<a th:href="@{/forgot_password}">Reset Password</a> 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="text-center">
+		<p>Shopme Control Paner - Copyright &copy; Shopme</p>
+	</div>
+</div>
+
+
+
+</body>
+
+</html>

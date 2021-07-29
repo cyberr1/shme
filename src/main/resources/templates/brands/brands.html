@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="https://www.thymelear.org/thymeleaf-extras-springsecurity5">
+
+<head th:replace="fragments :: page_head('Brand Home - Shopme Admin', 'none')" />
+
+<body>
+	<div class="container-fluid">
+		<div th:replace="navigation :: menu"></div>
+
+
+		<div>
+			<h2>Manage Brands</h2>
+			<a th:href="@{/brands/new}" class="fas fa-plus fa-2x icon-dark mr-2"></a>&nbsp;&nbsp;
+			<a th:href="@{/brands/export/csv}"
+				class="fas fa-file-csv fa-2x icon-dark mr-2"></a>&nbsp;&nbsp; <a
+				th:href="@{/brands/export/excel}"
+				class="fas fa-file-excel fa-2x icon-dark mr-2"></a>&nbsp;&nbsp; <a
+				th:href="@{/brands/export/pdf}"
+				class="fas fa-file-pdf fa-2x icon-dark mr-2"></a>&nbsp;&nbsp;
+
+		</div>
+
+		<div>
+			<form th:action="@{'/brands/page/1' }" class="form-inline m-3">
+				<input type="hidden" name="sortField" th:value="${sortField}" /> <input
+					type="hidden" name="sortDir" th:value="${sortDir}" /> Filter:
+				&nbsp; <input type="search" th:value="${keyword}" name="keyword"
+					required placeholder="search text" class="form-control"
+					title="enter your query" /> &nbsp; &nbsp;
+				<button type="submit" value="Search" class="btn btn-primary">
+					<i class="fas fa-search "></i>
+				</button>
+				&nbsp; &nbsp;
+				<button type="button" class="btn btn-secondary"
+					onclick="clearFilter()">
+					<i class="fas fa-eraser"></i>
+				</button>
+			</form>
+		</div>
+
+
+
+		<div th:if="${message != null}"
+			class="alert alert-success text-center">[[${message}]]</div>
+
+
+
+
+
+
+
+
+		<div class="full-details">
+
+			<table
+				class="table table-bordered table-striped table-hover table-responsive-xl">
+				<thead class="thead-dark">
+					<tr>
+						<th class="hidble-column">ID</th>
+						<th>Brand Logo</th>
+
+						<th><a class="text-white"
+							th:href="@{'/brands/page/'+${pageNum}+'?sortDir='+${reverseSortDir} +${keyword != null ? '&keyword=' + keyword : '' }}">Brand Name</a> </th>
+						<th class="hideable-column">Categories</th>
+						<th></th>
+
+					</tr>
+
+				</thead>
+				<tbody>
+					<tr th:each="brand : ${listBrands}">
+						<td class="hidble-column">[[${brand.id}]]</td>
+						<td><img th:src="@{${brand.logoPath}}" style="width: 100px"
+							class="img-fluids" /></td>
+						<td >[[${brand.name}]]</td>
+						<td class="hideable-column"><span
+							th:each="cat : ${brand.categories}"
+							class="badge badge-secondary m-1 hidble-column">[[${cat.name}]]</span></td>
+
+
+
+						<td><a class="fas fa-edit fa-1x icon-green"
+							th:href="@{'/brands/edit/'+${brand.id}}" title="Edit this Brand"></a>
+							&nbsp; <a class="fas fa-trash fa-1x icon-red link-delete"
+							th:href="@{'/brands/delete/'+${brand.id}}"
+							th:brandId="${brand.id}" title="Delete this Brand"></a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+</div>
+
+	<div th:replace="fragments :: pagination('/brands', 'users' )"></div>
+
+		<div th:replace="fragments :: footer"></div>
+		</th:block>
+
+
+
+
+		<div class="modal fade text-center" tabindex="-1" id="confirmModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title">Modal title</h5>
+						<button type="button" class="close" data-dismiss="modal"
+							aria-label="No">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<span id="confirmMessage" ></span>
+					</div>
+					<div class="modal-footer">
+						<a class="btn btn-success" id="yesButton">Yes</a>
+						<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<script>
+			$(document).ready(
+					function() {
+						$(".link-delete").on(
+								"click",
+								function(e) {
+									e.preventDefault();
+									//alert($(this).attr("href"));
+									link = $(this);
+									brandId = link.attr("brandId");
+									href = link.attr("href");
+									$("#yesButton").attr("href", href);
+									$("#confirmMessage").text(
+											"Are you sure you want to delete this brand ID: "
+													+ brandId + "?");
+									$("#confirmModal").modal();
+								});
+					});
+
+			function clearFilter() {
+				window.location = "[[@{'/brands/'}]]";
+			}
+		</script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+</head>
+
+
+<body>
+
+	<div th:fragment="content" id="divProductDetails">
+
+		<th:block th:each="detail, status : ${product.details}">
+			<div class="form-inline" th:id="'divDetail' + ${status.index}">
+			<input type="hidden" name="detailIDs" th:value="${detail.id}"/>
+				<label class="m-3">Name:</label> <input type="text"
+					th:value="${detail.name}" class="form-controll w-25"
+					maxlength="255" name="detailNames"> <label class="m-3" l>Value:</label>
+				<input type="text" th:value="${detail.value}"
+					class="form-controll w-25" maxlength="255" name="detailValues">
+				<a name="linkRemoveDetail" class="btn fas fa-times-circle fa-2x icon-dark"
+					title="Remove this Detail"></a>
+			</div>
+		</th:block>
+
+		<div class="form-inline"
+			th:id="'divDetail' + ${#lists.size(product.details) }">
+						<input type="hidden" name="detailIDs" value="0"/>
+			
+			<label class="m-3">Name:</label> <input type="text"
+				class="form-controll w-25" maxlength="255" name="detailNames">
+			<label class="m-3" l>Value:</label> <input type="text"
+				class="form-controll w-25" maxlength="255" name="detailValues">
+		</div>
+
+
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
